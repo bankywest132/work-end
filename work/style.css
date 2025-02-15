@@ -1,0 +1,21 @@
+
+body{
+    background-color: aquamarine;
+    color: blue;
+    text-shadow: 1px 0 red;
+}
+.link{
+  text-decoration: none;
+  /* font:impact, italic, 30px; */
+  font-size: medium;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+}
+.link2{
+    text-decoration: none;
+  font-size: medium;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  align-content:right;
+    
+}
